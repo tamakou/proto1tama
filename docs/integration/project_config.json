@@ -1,0 +1,18 @@
+{
+  "project_name": "MagicLeap-Integration",
+  "repositories": [
+    "./MagicLeapPhotonFusionExample",
+    "./MagicLeapSpatialAnchors"
+  ],
+  "analysis_focus": {
+    "photon_fusion": [
+      "Assets/MagicLeap/PhotonFusionExample/Scripts/PhotonFusion/",
+      "Assets/MagicLeap/PhotonFusionExample/Scripts/MarkerTracking/"
+    ],
+    "spatial_anchors": [
+      "Assets/Scripts/",
+      "Assets/Prefabs/"
+    ]
+  }
+}
+
